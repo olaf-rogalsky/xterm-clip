@@ -1,4 +1,10 @@
 xterm-clip
 ==========
 
-Emacs minor-mode which allows to use the X11 selection within a xterm TTY frame
+Emacs minor-mode for accessing the X11 selection from within a xterm TTY frame.
+
+Usage
+-----
+
+`(require xterm-clip)`
+`(xterm-clip-mode 1)`
